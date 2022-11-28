@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasanth-rajan
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning AWS, Devops Tools
-- 💞️ I’m looking to collaborate on anything in Firewall space
+- 💞️ I’m looking to collaborate on anything in Network Security space
 - 📫 How to reach me ...
 
 <!---
